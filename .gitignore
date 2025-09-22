@@ -1,0 +1,12 @@
+database/*
+comms/*
+gcodes/*
+config/ShakeTune_results/*
+config/printer-*.cfg
+logs/*
+misc/*
+systemd/*
+.moonraker.uuid
+moonraker.asvc
+config/wget-log
+config/.moonraker.conf.bkp
